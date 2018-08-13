@@ -32,7 +32,7 @@ namespace Characters.Cards
             _gm = Managers.GameManager.Instance;
             _opponent1DeckInformation = new Dictionary<Card, int>()
             {
-                { _allCard[0], 1},
+                //{ _allCard[Data.CardInformation.BehaviorCardRotation], 10},
                 { _allCard[0], 1},
                 { _allCard[0], 1},
                 { _allCard[0], 1},
